@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ilya Suponya</h1>
-<h3 align="center">A frontend developer</h3>
+<h1 align="center">Hi 👋, Ilya Suponya a frontend developer</h1>
 
 - 📫 How to reach me **https://www.linkedin.com/in/ilya-suponya/**
 

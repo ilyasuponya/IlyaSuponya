@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, Ilya Suponya a frontend developer</h1>
 
 - 📫 How to reach me **https://www.linkedin.com/in/ilya-suponya/**
